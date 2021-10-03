@@ -1,0 +1,9 @@
+The Azure provider's bugs and feature requests can be found in the GitHub repo issues. Please avoid "me too" or "+1" comments. Instead, use a thumbs up reaction on enhancement requests. Provider maintainers will often prioritize work based on the number of thumbs on an issue.
+
+Community input is appreciated on outstanding issues! We love to hear what use cases you have for new features, and want to provide the best possible experience for you using the Azure provider.
+
+If you have a bug or feature request without an existing issue
+
+if an existing resource or field is working in an unexpected way, file a bug.
+
+if you'd like the provider to support a new resource or field, file an enhancement/feature request.
